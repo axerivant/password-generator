@@ -23,7 +23,6 @@
 		}
 		generatedPassword = generate(parameters)
 	}
-
 	// generate initial password with default parameters
 	onMount(handleGenerate)
 </script>
